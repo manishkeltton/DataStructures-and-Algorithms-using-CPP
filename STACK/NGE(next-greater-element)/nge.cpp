@@ -1,3 +1,6 @@
+// T.C. => O(N^3)
+// S.C. => O(N)
+
 #include<bits/stdc++.h>
 using namespace std;
 
